@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson>
+ <r>
+  <inproceedings key="conf/esocc/KritikosSZ20" mdate="2020-04-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Pawel Skrzypek</author>
+   <author orcid="-">Feroz Zahid</author>
+   <title>Are Cloud Platforms Ready for Multi-cloud?</title>
+   <pages>56-73</pages>
+   <year>2020</year>
+   <booktitle>ESOCC</booktitle>
+   <ee>https://doi.org/10.1007/978-3-030-44769-4_5</ee>
+   <url>db/conf/esocc/esocc2020.html#KritikosSZ20</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/IEEEcloud/KritikosSMM19" mdate="2019-12-00">
+   <author orcid="-">Pawel Skrzypek</author>
+   <author orcid="-">Alexandru Moga</author>
+   <author orcid="-">Oliviu Matei</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <title>Towards the Modelling of Hybrid Cloud Applications.</title>
+   <pages>291-295</pages>
+   <year>2019</year>
+   <booktitle>CLOUD</booktitle>
+   <ee>https://doi.org/10.1109/CLOUD.2019.00056</ee>
+   <url>db/conf/IEEEcloud/IEEEcloud2019.html#KritikosSMM19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/bis/KritikosS19" mdate="2019-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Manos Papoutsakis</author>
+   <title>Towards an Optimized, Cloud-Agnostic Deployment of Hybrid Applications.</title>
+   <pages>435-449</pages>
+   <year>2019</year>
+   <booktitle>BIS (1)</booktitle>
+   <ee>https://doi.org/10.1007/978-3-030-20485-3_34</ee>
+   <url>db/conf/bis/bis2019-1.html#KritikosS19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/services/KritikosS19" mdate="2019-12-00">
+   <author orcid="0000-0002-7288-5923">Kostas Magoutis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Manos Papoutsakis</author>
+   <author orcid="-">Sotiris Ioannidis</author>
+   <title>Simulation-as-a-Service with Serverless Computing.</title>
+   <pages>200-205</pages>
+   <year>2019</year>
+   <booktitle>SERVICES</booktitle>
+   <ee>https://doi.org/10.1109/SERVICES.2019.00056</ee>
+   <url>db/conf/services/services2019.html#KritikosS19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ucc/KritikosS19" mdate="2019-11-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Eleni Politaki</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Are Cloud Modelling Languages Ready for Multi-Cloud?</title>
+   <pages>51-58</pages>
+   <year>2019</year>
+   <booktitle>UCC Companion</booktitle>
+   <ee>https://doi.org/10.1145/3368235.3368840</ee>
+   <url>db/conf/ucc/ucc2019c.html#KritikosS19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ucc/KritikosS18" mdate="2018-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Pawel Skrzypek</author>
+   <title>A Review of Serverless Frameworks.</title>
+   <pages>161-168</pages>
+   <year>2018</year>
+   <booktitle>UCC Companion</booktitle>
+   <ee>https://doi.org/10.1109/UCC-Companion.2018.00051</ee>
+   <url>db/conf/ucc/ucc2018c.html#KritikosS18</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/camad/KritikosPIM19" mdate="2019-12-00">
+   <author orcid="-">Pawel Skrzypek</author>
+   <author orcid="-">Marta Rózanska</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <title>Towards Configurable Vulnerability Assessment in the Cloud.</title>
+   <pages>1-6</pages>
+   <year>2019</year>
+   <booktitle>CAMAD</booktitle>
+   <ee>https://doi.org/10.1109/CAMAD.2019.8858460</ee>
+   <url>db/conf/camad/camad2019.html#KritikosPIM19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ccgrid/KritikosPIM19" mdate="2019-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Marta Rózanska</author>
+   <title>Towards Configurable Cloud Application Security.</title>
+   <pages>684-689</pages>
+   <year>2019</year>
+   <booktitle>CCGRID</booktitle>
+   <ee>https://doi.org/10.1109/CCGRID.2019.00088</ee>
+   <url>db/conf/ccgrid/ccgrid2019.html#KritikosPIM19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/closer/KritikosZPP19" mdate="2019-06-00">
+   <author orcid="-">Marta Rózanska</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Andreas Paravoliasis</author>
+   <title>Towards the Modelling of Adaptation Rules and Histories for Multi-Cloud Applications.</title>
+   <pages>300-307</pages>
+   <year>2019</year>
+   <booktitle>CLOSER</booktitle>
+   <ee>https://doi.org/10.5220/0007706503000307</ee>
+   <url>db/conf/closer/closer2019.html#KritikosZPP19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ucc/KritikosSR19" mdate="2019-11-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0003-0750-7376">Rafael Brundo Uriarte</author>
+   <author orcid="-">Rocco De Nicola</author>
+   <title>Towards an Integration Methodology for Multi-Cloud Application Management Platforms.</title>
+   <pages>21-28</pages>
+   <year>2019</year>
+   <booktitle>UCC Companion</booktitle>
+   <ee>https://doi.org/10.1145/3368235.3368833</ee>
+   <url>db/conf/ucc/ucc2019c.html#KritikosSR19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ucc/RozanskaK19" mdate="2019-11-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Geir Horn</author>
+   <title>Good Bye Vendor Lock-in: Getting your Cloud Applications Multi-Cloud Ready!</title>
+   <pages>171-173</pages>
+   <year>2019</year>
+   <booktitle>UCC Companion</booktitle>
+   <ee>https://doi.org/10.1145/3368235.3370267</ee>
+   <url>db/conf/ucc/ucc2019c.html#RozanskaK19</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/closer/KritikosZPP18" mdate="2018-04-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0002-7288-5923">Kostas Magoutis</author>
+   <author orcid="-">Sotiris Ioannidis</author>
+   <author orcid="-">Manos Papoutsakis</author>
+   <title>Towards Multi-cloud SLO Evaluation.</title>
+   <pages>409-417</pages>
+   <year>2018</year>
+   <booktitle>CLOSER</booktitle>
+   <ee>https://doi.org/10.5220/0006684604090417</ee>
+   <url>db/conf/closer/closer2018.html#KritikosZPP18</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/KritikosZPP17" mdate="2017-05-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Pawel Skrzypek</author>
+   <title>CEP-Based SLO Evaluation.</title>
+   <pages>20-34</pages>
+   <year>2017</year>
+   <booktitle>ESOCC Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-79090-9_2</ee>
+   <url>db/conf/esocc/esocc2017w.html#KritikosZPP17</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/cloudcom/UriarteNK18" mdate="2018-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Robert Woitsch</author>
+   <title>Towards Distributed SLA Management with Smart Contracts and Blockchain.</title>
+   <pages>266-271</pages>
+   <year>2018</year>
+   <booktitle>CloudCom</booktitle>
+   <ee>https://doi.org/10.1109/CloudCom2018.2018.00059</ee>
+   <url>db/conf/cloudcom/cloudcom2018.html#UriarteNK18</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/KritikosH18" mdate="2018-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Robert Woitsch</author>
+   <title>IaaS Service Selection Revisited.</title>
+   <pages>170-184</pages>
+   <year>2018</year>
+   <booktitle>ESOCC</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-99819-0_13</ee>
+   <url>db/conf/esocc/esocc2018.html#KritikosH18</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/eurosys/PapoutsakisKMI18" mdate="2018-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0003-0750-7376">Rafael Brundo Uriarte</author>
+   <title>Towards Model-Driven Application Security across Clouds.</title>
+   <pages>2:1-2:6</pages>
+   <year>2018</year>
+   <booktitle>CrossCloud@EuroSys</booktitle>
+   <ee>https://doi.org/10.1145/3195870.3195872</ee>
+   <url>db/conf/eurosys/crosscloud2018.html#PapoutsakisKMI</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/trustcom/Kritikos18" mdate="2018-12-00">
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Damianos Metallidis</author>
+   <title>Towards Dynamic and Optimal Big Data Placement.</title>
+   <pages>1730-1737</pages>
+   <year>2018</year>
+   <booktitle>TrustCom/BigDataSE</booktitle>
+   <ee>https://doi.org/10.1109/TrustCom/BigDataSE.2018.00</ee>
+   <url>db/conf/trustcom/trustcom2018.html#Kritikos18</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/closer/KritikosPW17" mdate="2017-06-00">
+   <author orcid="-">Andreas Paravoliasis</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Emanuele Laurenzi</author>
+   <title>Towards Semantic KPI Measurement.</title>
+   <pages>63-74</pages>
+   <year>2017</year>
+   <booktitle>CLOSER</booktitle>
+   <ee>https://doi.org/10.5220/0006238000630074</ee>
+   <url>db/conf/closer/closer2017.html#KritikosPW17</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/closer/KritikosPW17a" mdate="2017-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Frank Griesinger</author>
+   <title>A Flexible Semantic KPI Measurement System.</title>
+   <pages>237-261</pages>
+   <year>2017</year>
+   <booktitle>CLOSER (Selected Papers)</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-94959-8_13</ee>
+   <url>db/conf/closer/closer2017s.html#KritikosPW17a</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/closer/KritikosU17" mdate="2017-06-00">
+   <author orcid="-">Jörg Domaschka</author>
+   <author orcid="-">Knut Hinkelmann</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Sabrina Kurjakovic</author>
+   <author orcid="-">Benjamin Lammel</author>
+   <title>Semantic SLA for Clouds: Combining SLAC and OWL-Q.</title>
+   <pages>404-412</pages>
+   <year>2017</year>
+   <booktitle>CLOSER</booktitle>
+   <ee>https://doi.org/10.5220/0006299804040412</ee>
+   <url>db/conf/closer/closer2017.html#KritikosU17</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/closer/MetallidisZKP17" mdate="2017-06-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0002-7288-5923">Kostas Magoutis</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>A Cross-layer Monitoring Solution based on Quality Models.</title>
+   <pages>479-486</pages>
+   <year>2017</year>
+   <booktitle>CLOSER</booktitle>
+   <ee>https://doi.org/10.5220/0006306304790486</ee>
+   <url>db/conf/closer/closer2017.html#MetallidisZKP17</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/KritikosLH17" mdate="2017-12-00">
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Pierluigi Plebani</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <title>Towards Business-to-IT Alignment in the Cloud.</title>
+   <pages>35-52</pages>
+   <year>2017</year>
+   <booktitle>ESOCC Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-79090-9_3</ee>
+   <url>db/conf/esocc/esocc2017w.html#KritikosLH17</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ficloud/KritikosZGSD17" mdate="2017-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>A Cross-Layer BPaaS Adaptation Framework.</title>
+   <pages>241-248</pages>
+   <year>2017</year>
+   <booktitle>FiCloud</booktitle>
+   <ee>https://doi.org/10.1109/FiCloud.2017.12</ee>
+   <url>db/conf/ficloud/ficloud2017.html#KritikosZGSD17</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/caise/HinkelmannKKLW16" mdate="2016-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>A Modelling Environment for Business Process as a Service.</title>
+   <pages>181-192</pages>
+   <year>2016</year>
+   <booktitle>CAiSE Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-39564-7_18</ee>
+   <url>db/conf/caise/caisews2016.html#HinkelmannKKLW16</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/cloudcom/KritikosMP16" mdate="2016-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Frank Griesinger</author>
+   <author orcid="-">Daniel Seybold</author>
+   <author orcid="-">Jörg Domaschka</author>
+   <title>Towards Knowledge-Based Assisted IaaS Selection.</title>
+   <pages>431-439</pages>
+   <year>2016</year>
+   <booktitle>CloudCom</booktitle>
+   <ee>https://doi.org/10.1109/CloudCom.2016.0073</ee>
+   <url>db/conf/cloudcom/cloudcom2016.html#KritikosMP16</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/cloudforward/KritikosPP16" mdate="2016-12-00">
+   <author orcid="-">Damianos Metallidis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Semantic SLAs for Services with Q-SLA.</title>
+   <pages>24-33</pages>
+   <year>2016</year>
+   <booktitle>Cloud Forward</booktitle>
+   <ee>https://doi.org/10.1016/j.procs.2016.08.277</ee>
+   <url>db/conf/cloudforward/cloudforward2016.html#Kritiko</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/cloudforward/KritikosM16" mdate="2016-12-00">
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Nikolay Nikolov</author>
+   <title>An Integrated Meta-model for Cloud Application Security Modelling.</title>
+   <pages>84-93</pages>
+   <year>2016</year>
+   <booktitle>Cloud Forward</booktitle>
+   <ee>https://doi.org/10.1016/j.procs.2016.08.283</ee>
+   <url>db/conf/cloudforward/cloudforward2016.html#Kritiko</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esorics/KritikosM15" mdate="2015-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Nikolay Nikolov</author>
+   <author orcid="-">Tom Kirkham</author>
+   <title>Security-Based Adaptation of Multi-cloud Applications.</title>
+   <pages>47-64</pages>
+   <year>2015</year>
+   <booktitle>DPM/QASA@ESORICS</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-29883-2_4</ee>
+   <url>db/conf/esorics/dpm2015.html#KritikosM15</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/KritikosP16" mdate="2016-12-00">
+   <author orcid="-">Philippe Massonet</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <title>Subsumption Reasoning for QoS-Based Service Matchmaking.</title>
+   <pages>87-101</pages>
+   <year>2016</year>
+   <booktitle>ESOCC</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-44482-6_6</ee>
+   <url>db/conf/esocc/esocc2016.html#KritikosP16</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/KritikosP16a" mdate="2016-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Jörg Domaschka</author>
+   <author orcid="-">Alessandro Rossini</author>
+   <title>Towards Combined Functional and Non-functional Semantic Service Discovery.</title>
+   <pages>102-117</pages>
+   <year>2016</year>
+   <booktitle>ESOCC</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-44482-6_7</ee>
+   <url>db/conf/esocc/esocc2016.html#KritikosP16a</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/IEEEcloud/KritikosP15" mdate="2015-12-00">
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Multi-cloud Application Design through Cloud Service Composition.</title>
+   <pages>686-693</pages>
+   <year>2015</year>
+   <booktitle>CLOUD</booktitle>
+   <ee>https://doi.org/10.1109/CLOUD.2015.96</ee>
+   <url>db/conf/IEEEcloud/IEEEcloud2015.html#KritikosP15</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/icws/KritikosP12" mdate="2012-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Alessandro Rossini</author>
+   <author orcid="-">Jörg Domaschka</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <title>Towards Optimal and Scalable Non-functional Service Matchmaking Techniques.</title>
+   <pages>327-335</pages>
+   <year>2012</year>
+   <booktitle>ICWS</booktitle>
+   <ee>https://doi.org/10.1109/ICWS.2012.27</ee>
+   <url>db/conf/icws/icws2012.html#KritikosP12</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/www/KritikosP12" mdate="2012-12-00">
+   <author orcid="-">Panagiotis Garefalakis</author>
+   <author orcid="-">Konstantina Konsolaki</author>
+   <author orcid="0000-0002-7288-5923">Kostas Magoutis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Yannis Rousakis</author>
+   <title>Towards optimizing the non-functional service matchmaking time.</title>
+   <pages>549-550</pages>
+   <year>2012</year>
+   <booktitle>WWW (Companion Volume)</booktitle>
+   <ee>https://doi.org/10.1145/2187980.2188121</ee>
+   <url>db/conf/www/www2012c.html#KritikosP12</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/services/KritikosP08" mdate="2008-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Evaluation of QoS-Based Web Service Matchmaking Algorithms.</title>
+   <pages>567-574</pages>
+   <year>2008</year>
+   <booktitle>SERVICES I</booktitle>
+   <ee>https://doi.org/10.1109/SERVICES-1.2008.53</ee>
+   <url>db/conf/services/services2008-1.html#KritikosP08</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/compsac/KritikosP07" mdate="2007-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Konstantina Konsolaki</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Requirements for QoS-based Web Service Description and Discovery.</title>
+   <pages>467-472</pages>
+   <year>2007</year>
+   <booktitle>COMPSAC (2)</booktitle>
+   <ee>https://doi.org/10.1109/COMPSAC.2007.181</ee>
+   <url>db/conf/compsac/compsac2007-2.html#KritikosP07</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ecows/KritikosP07" mdate="2007-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Semantic QoS-based Web Service Discovery Algorithms.</title>
+   <pages>181-190</pages>
+   <year>2007</year>
+   <booktitle>ECOWS</booktitle>
+   <ee>https://doi.org/10.1109/ECOWS.2007.20</ee>
+   <url>db/conf/ecows/ecows2007.html#KritikosP07</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/icsoc/KritikosP07" mdate="2007-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0003-2985-0378">Sylvain Kubicki</author>
+   <author orcid="-">Eric Dubois 0001</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <title>A Semantic QoS-Based Web Service Discovery Engine for Over-Constrained QoS Demands.</title>
+   <pages>151-164</pages>
+   <year>2007</year>
+   <booktitle>ICSOC Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-540-93851-4_15</ee>
+   <url>db/conf/icsoc/icsoc2007w.html#KritikosP07</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/semweb/KritikosP07" mdate="2007-05-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="0000-0003-2985-0378">Sylvain Kubicki</author>
+   <title>OWL-Q for Semantic QoS-based Web Service Description and Discovery.</title>
+   <pages>-</pages>
+   <year>2007</year>
+   <booktitle>SMRR</booktitle>
+   <ee>http://ceur-ws.org/Vol-243/SMR2-2007-paper9.pdf</ee>
+   <url>db/conf/semweb/smrr2007.html#KritikosP07</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ecows/KritikosP06" mdate="2006-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0001-8355-6909">Fabio Paternò</author>
+   <title>Semantic QoS Metric Matching.</title>
+   <pages>265-274</pages>
+   <year>2006</year>
+   <booktitle>ECOWS</booktitle>
+   <ee>https://doi.org/10.1109/ECOWS.2006.34</ee>
+   <url>db/conf/ecows/ecows2006.html#KritikosP06</url>
+  </inproceedings>
+ </r>
+ <r>
+  <article key="journals/ercim/KritikosP17" mdate="2017-05-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Pawel Skrzypek</author>
+   <author orcid="-">Feroz Zahid</author>
+   <title>Bringing Business Processes to the Cloud.</title>
+   <pages>-</pages>
+   <year>2017</year>
+   <volume>255</volume>
+   <journal>ERCIM News</journal>
+   <ee>https://ercim-news.ercim.eu/en109/r-i/bringing-bus</ee>
+   <url>db/journals/ercim/ercim2017.html#KritikosP17</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/tsc/KritikosP14" mdate="2014-04-00">
+   <author orcid="-">Pawel Skrzypek</author>
+   <author orcid="-">Alexandru Moga</author>
+   <author orcid="-">Oliviu Matei</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <title>Novel Optimal and Scalable Nonfunctional Service Matchmaking Techniques.</title>
+   <pages>614-627</pages>
+   <year>2014</year>
+   <volume>7</volume>
+   <journal>IEEE Trans. Serv. Comput.</journal>
+   <ee>https://doi.org/10.1109/TSC.2013.11</ee>
+   <url>db/journals/tsc/tsc7.html#KritikosP14</url>
+  </article>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/GriesingerSDKW16" mdate="2016-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Martin Treiber</author>
+   <author orcid="-">Daniel Schall 0001</author>
+   <author orcid="0000-0001-6872-8821">Schahram Dustdar</author>
+   <title>A DMN-Based Approach for Dynamic Deployment Modelling of Cloud Applications.</title>
+   <pages>104-111</pages>
+   <year>2016</year>
+   <booktitle>ESOCC Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-72125-5_8</ee>
+   <url>db/conf/esocc/esocc2016w.html#GriesingerSDKW16</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/MetallidisKZP16" mdate="2016-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0001-8355-6909">Fabio Paternò</author>
+   <title>A Distributed Cross-Layer Monitoring System Based on QoS Metrics Models.</title>
+   <pages>189-200</pages>
+   <year>2016</year>
+   <booktitle>ESOCC Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-72125-5_15</ee>
+   <url>db/conf/esocc/esocc2016w.html#MetallidisKZP16</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/cloudforward/NikolovRK15" mdate="2015-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0002-2034-9774">Barbara Pernici</author>
+   <author orcid="-">Alexandre Mello Ferreira</author>
+   <author orcid="0000-0002-6944-4705">Marco Comuzzi</author>
+   <title>Integration of DSLs and Migration of Models: A Case Study in the Cloud Computing Domain.</title>
+   <pages>53-66</pages>
+   <year>2015</year>
+   <booktitle>Cloud Forward</booktitle>
+   <ee>https://doi.org/10.1016/j.procs.2015.09.223</ee>
+   <url>db/conf/cloudforward/cloudforward2015.html#Nikolov</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/cloudforward/KritikosKKM15" mdate="2015-12-00">
+   <author orcid="-">Pierluigi Plebani</author>
+   <author orcid="0000-0002-6944-4705">Marco Comuzzi</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Security Enforcement for Multi-Cloud Platforms - The Case of PaaSage.</title>
+   <pages>103-115</pages>
+   <year>2015</year>
+   <booktitle>Cloud Forward</booktitle>
+   <ee>https://doi.org/10.1016/j.procs.2015.09.227</ee>
+   <url>db/conf/cloudforward/cloudforward2015.html#Kritiko</url>
+  </inproceedings>
+ </r>
+ <r>
+  <article key="journals/fgcs/KritikosKKM18" mdate="2018-02-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Manos Papoutsakis</author>
+   <title>Reprint of &quot;Towards a security-enhanced PaaS platform for multi-cloud applications&quot;.</title>
+   <pages>155-175</pages>
+   <year>2018</year>
+   <volume>78</volume>
+   <journal>Future Gener. Comput. Syst.</journal>
+   <ee>https://doi.org/10.1016/j.future.2016.11.014</ee>
+   <url>db/journals/fgcs/fgcs78.html#KritikosKKM18</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/fgcs/KritikosKKM17" mdate="2017-02-00">
+   <author orcid="0000-0002-7288-5923">Kostas Magoutis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Manos Papoutsakis</author>
+   <author orcid="-">Sotiris Ioannidis</author>
+   <title>Towards a security-enhanced PaaS platform for multi-cloud applications.</title>
+   <pages>206-226</pages>
+   <year>2017</year>
+   <volume>67</volume>
+   <journal>Future Gener. Comput. Syst.</journal>
+   <ee>https://doi.org/10.1016/j.future.2016.10.008</ee>
+   <url>db/journals/fgcs/fgcs67.html#KritikosKKM17</url>
+  </article>
+ </r>
+ <r>
+  <inproceedings key="conf/cloudcom/KritikosDR14" mdate="2014-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0002-6944-4705">Marco Comuzzi</author>
+   <author orcid="-">Pierluigi Plebani</author>
+   <title>SRL: A Scalability Rule Language for Multi-cloud Environments.</title>
+   <pages>1-9</pages>
+   <year>2014</year>
+   <booktitle>CloudCom</booktitle>
+   <ee>https://doi.org/10.1109/CloudCom.2014.170</ee>
+   <url>db/conf/cloudcom/cloudcom2014.html#KritikosDR14</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/ZeginisKP14" mdate="2014-12-00">
+   <author orcid="0000-0002-6944-4705">Marco Comuzzi</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Event Pattern Discovery for Cross-Layer Adaptation of Multi-cloud Applications.</title>
+   <pages>138-147</pages>
+   <year>2014</year>
+   <booktitle>ESOCC</booktitle>
+   <ee>https://doi.org/10.1007/978-3-662-44879-3_10</ee>
+   <url>db/conf/esocc/esocc2014.html#ZeginisKP14</url>
+  </inproceedings>
+ </r>
+ <r>
+  <article key="journals/ijssoe/ZeginisKP15" mdate="2015-05-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Eleni Politaki</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Event Pattern Discovery in Multi-Cloud Service-Based Applications.</title>
+   <pages>78-103</pages>
+   <year>2015</year>
+   <volume>5</volume>
+   <journal>IJSSOE</journal>
+   <ee>https://doi.org/10.4018/IJSSOE.2015100104</ee>
+   <url>db/journals/ijssoe/ijssoe5.html#ZeginisKP15</url>
+  </article>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/DomaschkaKR14" mdate="2014-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Towards a Generic Language for Scalability Rules.</title>
+   <pages>206-220</pages>
+   <year>2014</year>
+   <booktitle>ESOCC Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-319-14886-1_19</ee>
+   <url>db/conf/esocc/esocc2014w.html#DomaschkaKR14</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/esocc/ZeginisKGKMP13" mdate="2013-12-00">
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <title>Towards Cross-Layer Monitoring of Multi-Cloud Service-Based Applications.</title>
+   <pages>188-195</pages>
+   <year>2013</year>
+   <booktitle>ESOCC</booktitle>
+   <ee>https://doi.org/10.1007/978-3-642-40651-5_16</ee>
+   <url>db/conf/esocc/esocc2013.html#ZeginisKGKMP13</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/wod/KritikosRK13" mdate="2013-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Linked open GeoData management in the cloud.</title>
+   <pages>3:1-3:6</pages>
+   <year>2013</year>
+   <booktitle>WOD</booktitle>
+   <ee>https://doi.org/10.1145/2500410.2500414</ee>
+   <url>db/conf/wod/wod2013.html#KritikosRK13</url>
+  </inproceedings>
+ </r>
+ <r>
+  <article key="journals/tlsdkcs/KritikosRK15" mdate="2015-05-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Pawel Skrzypek</author>
+   <title>A Cloud-Based, Geospatial Linked Data Management System.</title>
+   <pages>59-89</pages>
+   <year>2015</year>
+   <volume>20</volume>
+   <journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+   <ee>https://doi.org/10.1007/978-3-662-46703-9_3</ee>
+   <url>db/journals/tlsdkcs/tlsdkcs20.html#KritikosRK15</url>
+  </article>
+ </r>
+ <r>
+  <inproceedings key="conf/wise/ZeginisKKP12" mdate="2012-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0002-7288-5923">Kostas Magoutis</author>
+   <author orcid="-">Manos Papoutsakis</author>
+   <title>Towards Proactive Cross-Layer Service Adaptation.</title>
+   <pages>704-711</pages>
+   <year>2012</year>
+   <booktitle>WISE</booktitle>
+   <ee>https://doi.org/10.1007/978-3-642-35063-4_56</ee>
+   <url>db/conf/wise/wise2012.html#ZeginisKKP12</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/icsoc/ZeginisKKP11" mdate="2011-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0002-1751-2569">Somnath Mazumdar</author>
+   <author orcid="-">Daniel Seybold</author>
+   <author orcid="-">Yiannis Verginadis</author>
+   <title>ECMAF: An Event-Based Cross-Layer Service Monitoring and Adaptation Framework.</title>
+   <pages>147-161</pages>
+   <year>2011</year>
+   <booktitle>ICSOC Workshops</booktitle>
+   <ee>https://doi.org/10.1007/978-3-642-31875-7_15</ee>
+   <url>db/conf/icsoc/icsoc2011w.html#ZeginisKKP11</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ecows/DuboisKK11" mdate="2011-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Joaquin Iranzo</author>
+   <author orcid="-">Roman Sosa Gonzalez</author>
+   <author orcid="-">Daniel Seybold</author>
+   <title>An Automatic Requirements Negotiation Approach for Business Services.</title>
+   <pages>133-140</pages>
+   <year>2011</year>
+   <booktitle>ECOWS</booktitle>
+   <ee>https://doi.org/10.1109/ECOWS.2011.19</ee>
+   <url>db/conf/ecows/ecows2011.html#DuboisKK11</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/wecwis/KritikosK11" mdate="2011-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Alessandro Rossini</author>
+   <author orcid="-">Georgia M. Kapitsaki</author>
+   <author orcid="-">Jörg Domaschka</author>
+   <title>A Goal-Based Business Service Selection Approach.</title>
+   <pages>104-112</pages>
+   <year>2011</year>
+   <booktitle>CEC</booktitle>
+   <ee>https://doi.org/10.1109/CEC.2011.27</ee>
+   <url>db/conf/wecwis/cec2011.html#KritikosK11</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/avi/KritikosP10" mdate="2010-12-00">
+   <author orcid="-">Bartosz Kryza</author>
+   <author orcid="-">Philippe Massonet</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Tom Kirkham</author>
+   <title>Task-driven service discovery and selection.</title>
+   <pages>89-92</pages>
+   <year>2010</year>
+   <booktitle>AVI</booktitle>
+   <ee>https://doi.org/10.1145/1842993.1843009</ee>
+   <url>db/conf/avi/avi2010.html#KritikosP10</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/eics/KritikosP10" mdate="2010-12-00">
+   <author orcid="-">Philippe Massonet</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Costantino Thanos</author>
+   <author orcid="0000-0002-1856-7334">Friederike Klan</author>
+   <title>Service discovery supported by task models.</title>
+   <pages>261-266</pages>
+   <year>2010</year>
+   <booktitle>EICS</booktitle>
+   <ee>https://doi.org/10.1145/1822018.1822059</ee>
+   <url>db/conf/eics/eics2010.html#KritikosP10</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/ecows/TreiberKSDP10" mdate="2010-12-00">
+   <author orcid="-">Costantino Thanos</author>
+   <author orcid="0000-0002-2118-5812">George Baryannis</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Modeling context-aware and socially-enriched mashups.</title>
+   <pages>2:1-2:8</pages>
+   <year>2010</year>
+   <booktitle>Mashups</booktitle>
+   <ee>https://doi.org/10.1145/1944999.1945001</ee>
+   <url>db/conf/ecows/mashups2010.html#TreiberKSDP10</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/icsoc/FerreiraKP09" mdate="2009-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Energy-Aware Design of Service-Based Applications.</title>
+   <pages>99-114</pages>
+   <year>2009</year>
+   <booktitle>ICSOC/ServiceWave</booktitle>
+   <ee>https://doi.org/10.1007/978-3-642-10383-4_7</ee>
+   <url>db/conf/icsoc/icsoc2009.html#FerreiraKP09</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/wecwis/ComuzziKP09" mdate="2009-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <title>A Semantic Based Framework for Supporting Negotiation in Service Oriented Architectures.</title>
+   <pages>137-145</pages>
+   <year>2009</year>
+   <booktitle>CEC</booktitle>
+   <ee>https://doi.org/10.1109/CEC.2009.17</ee>
+   <url>db/conf/wecwis/cec2009.html#ComuzziKP09</url>
+  </inproceedings>
+ </r>
+ <r>
+  <inproceedings key="conf/servicewave/ComuzziKP08" mdate="2008-12-00">
+   <author orcid="-">Dimitris Kotzinos</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <title>Semantic-Aware Service Quality Negotiation.</title>
+   <pages>312-323</pages>
+   <year>2008</year>
+   <booktitle>ServiceWave</booktitle>
+   <ee>https://doi.org/10.1007/978-3-540-89897-9_27</ee>
+   <url>db/conf/servicewave/servicewave2008.html#ComuzziKP</url>
+  </inproceedings>
+ </r>
+ <r>
+  <article key="journals/array/KritikosMPI19" mdate="2019-02-00">
+   <author orcid="-">Pawel Skrzypek</author>
+   <author orcid="-">Marta Rózanska</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <title>A survey on vulnerability assessment tools and databases for cloud-based web applications.</title>
+   <pages>100011</pages>
+   <year>2019</year>
+   <volume>3</volume>
+   <journal>Array</journal>
+   <ee>https://doi.org/10.1016/j.array.2019.100011</ee>
+   <url>db/journals/array/array3.html#KritikosMPI19</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/jbd/MazumdarSKV19" mdate="2019-11-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Marta Rózanska</author>
+   <title>A survey on data storage and placement methodologies for Cloud-Big Data ecosystem.</title>
+   <pages>15</pages>
+   <year>2019</year>
+   <volume>6</volume>
+   <journal>J. Big Data</journal>
+   <ee>https://doi.org/10.1186/s40537-019-0178-3</ee>
+   <url>db/journals/jbd/jbd6.html#MazumdarSKV19</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/jcloudc/KritikosZIGSGD19" mdate="2019-03-00">
+   <author orcid="-">Marta Rózanska</author>
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Chrysostomos Zeginis</author>
+   <author orcid="-">Andreas Paravoliasis</author>
+   <title>Multi-cloud provisioning of business processes.</title>
+   <pages>18</pages>
+   <year>2019</year>
+   <volume>8</volume>
+   <journal>J. Cloud Computing</journal>
+   <ee>https://doi.org/10.1186/s13677-019-0143-x</ee>
+   <url>db/journals/jcloudc/jcloudc8.html#KritikosZIGSGD19</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/jcloudc/AchilleosKRKDOS19" mdate="2019-03-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0003-0750-7376">Rafael Brundo Uriarte</author>
+   <author orcid="-">Rocco De Nicola</author>
+   <title>The cloud application modelling and execution language.</title>
+   <pages>20</pages>
+   <year>2019</year>
+   <volume>8</volume>
+   <journal>J. Cloud Computing</journal>
+   <ee>https://doi.org/10.1186/s13677-019-0138-7</ee>
+   <url>db/journals/jcloudc/jcloudc8.html#AchilleosKRKDOS1</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/publications/ThanosKKC17" mdate="2017-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Geir Horn</author>
+   <title>White Paper on Research Data Service Discoverability.</title>
+   <pages>1</pages>
+   <year>2017</year>
+   <volume>5</volume>
+   <journal>Publications</journal>
+   <ee>https://doi.org/10.3390/publications5010001</ee>
+   <url>db/journals/publications/publications5.html#Thanos</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/soca/BaryannisKP17" mdate="2017-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0002-7288-5923">Kostas Magoutis</author>
+   <author orcid="-">Sotiris Ioannidis</author>
+   <author orcid="-">Manos Papoutsakis</author>
+   <title>A specification-based QoS-aware design framework for service-based applications.</title>
+   <pages>301-314</pages>
+   <year>2017</year>
+   <volume>11</volume>
+   <journal>Service Oriented Computing and Applications</journal>
+   <ee>https://doi.org/10.1007/s11761-017-0210-4</ee>
+   <url>db/journals/soca/soca11.html#BaryannisKP17</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/tiis/KritikosPP14" mdate="2014-04-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Pawel Skrzypek</author>
+   <title>Task model-driven realization of interactive application functionality through services.</title>
+   <pages>25:1-25:31</pages>
+   <year>2014</year>
+   <volume>3</volume>
+   <journal>ACM Trans. Interact. Intell. Syst.</journal>
+   <ee>https://doi.org/10.1145/2559979</ee>
+   <url>db/journals/tiis/tiis3.html#KritikosPP14</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/csur/KritikosPPCCBBKPC13" mdate="2013-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Robert Woitsch</author>
+   <title>A survey on service quality description.</title>
+   <pages>1:1-1:58</pages>
+   <year>2013</year>
+   <volume>46</volume>
+   <journal>ACM Comput. Surv.</journal>
+   <ee>https://doi.org/10.1145/2522968.2522969</ee>
+   <url>db/journals/csur/csur46.html#KritikosPPCCBBKPC13</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/soca/KritikosK013" mdate="2013-12-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="-">Dimitris Plexousakis</author>
+   <author orcid="-">Robert Woitsch</author>
+   <title>Goal-based business service composition.</title>
+   <pages>231-257</pages>
+   <year>2013</year>
+   <volume>7</volume>
+   <journal>Service Oriented Computing and Applications</journal>
+   <ee>https://doi.org/10.1007/s11761-012-0126-y</ee>
+   <url>db/journals/soca/soca7.html#KritikosK013</url>
+  </article>
+ </r>
+ <r>
+  <article key="journals/ijhpca/HoustisLPVKS03" mdate="2003-03-00">
+   <author orcid="0000-0001-9633-1610">Kyriakos Kritikos</author>
+   <author orcid="0000-0003-0750-7376">Rafael Brundo Uriarte</author>
+   <title>A Grid Service-Based Infrastructure for Accessing Scientific Collections: The Case of the ARION System.</title>
+   <pages>269-280</pages>
+   <year>2003</year>
+   <volume>17</volume>
+   <journal>Int. J. High Perform. Comput. Appl.</journal>
+   <ee>https://doi.org/10.1177/1094342003173008</ee>
+   <url>db/journals/ijhpca/ijhpca17.html#HoustisLPVKS03</url>
+  </article>
+ </r>
+</dblpperson>
